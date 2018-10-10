@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">admin</string>
+    <string name="sv">http://14.236.11.132:3000/</string>
+</resources>
